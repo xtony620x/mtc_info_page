@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/173971594?v=4" style="width: 10%; height: auto;">
 
-Hi, I'm Antonio. Check out my repos!
+Hi, I'm Antonio Calamonici. Check out my repos!
 
 ## Projects
 
@@ -16,4 +16,4 @@ Hi, I'm Antonio. Check out my repos!
 
 ---
 
-© 2024 Antonio
+© 2024 Antonio Calamonici
