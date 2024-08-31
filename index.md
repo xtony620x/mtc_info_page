@@ -10,9 +10,8 @@ Hi, I'm Antonio Calamonici. Check out my repos!
 
 | Project Name        |  Web Page                                                          | Link                                                             |
 |---------------------|--------------------------------------------------------------------|-----------------------------------------------------------------=|
-| mtc-backend-prod    |  No Page                                                           | [GitHub](https://github.com/morethancertified/mtc-backend-prod)  |
-| mtc-infra-prod      |  [Webpage](https://morethancertified.github.io/mtc-infra-prod/)    | [GitHub](https://github.com/morethancertified/mtc-infra-prod)    |
-| mtc-frontend-prod   |  [Webpage](https://morethancertified.github.io/mtc-frontend-prod/) | [GitHub](https://github.com/morethancertified/mtc-frontend-prod) |
+| mtc-backend-prod     |  No Page   | [GitHub]({repo_value.http-clone-url})    |
+| mtc-infra-prod     |  No Page   | [GitHub]({repo_value.http-clone-url})    |
 
 ---
 
