@@ -11,6 +11,7 @@ Hi, I'm Antonio Calamonici. Check out my repos!
 | Project Name        |  Web Page                                                          | Link                                                             |
 |---------------------|--------------------------------------------------------------------|-----------------------------------------------------------------=|
 | mtc-backend-prod     |  No Page   | [GitHub]({repo_value.http-clone-url})    |
+| mtc-frontend-prod     |  No Page   | [GitHub]({repo_value.http-clone-url})    |
 | mtc-infra-prod     |  No Page   | [GitHub]({repo_value.http-clone-url})    |
 
 ---
